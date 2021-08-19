@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdepojuJeremy
+- 👋 Hi, I’m Dance Of Creation.
 - 👀 I’m interested in python programming and Machine Learning engineering.
 - 🌱 I’m currently learning python data-structures and algorithms.
 - 💞️ I’m looking to collaborate on any beginner machine learning application
